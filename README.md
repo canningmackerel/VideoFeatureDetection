@@ -6,6 +6,8 @@ Use Eclipse Please.
 
 Put in Logo Image to ./image  
 Put in Video File to ./movie  
+Edit src/akaze/MakeVideo.java file.
+(->reiwa.png and reiwa.mp4)  
 Run Program.  
 Check ./result .  
 
