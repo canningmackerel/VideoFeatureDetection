@@ -1,6 +1,6 @@
 # VideoFeatureDetection
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/f-vvVbX_5ZM/0.jpg)](https://www.youtube.com/watch?v=f-vvVbX_5ZM)
+[![](http://img.youtube.com/vi/f-vvVbX_5ZM/0.jpg)](https://www.youtube.com/watch?v=f-vvVbX_5ZM)
 
 Use Eclipse Please.
 
