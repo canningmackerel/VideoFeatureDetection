@@ -11,5 +11,5 @@ Edit src/akaze/MakeVideo.java file.
 Run Program.  
 Check ./result .  
 
-
+https://canning.hatenablog.jp/entry/2019/05/03/200158
 
